@@ -1,4 +1,5 @@
 [![travis](https://travis-ci.org/hdashnow/biodemo.svg?branch=master)](https://travis-ci.org/hdashnow/biodemo)
+[![codecov](https://codecov.io/github/hdashnow/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/hdashnow/biodemo)
 
 # Overview 
 
