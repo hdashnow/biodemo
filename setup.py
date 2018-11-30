@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': ['biodemo = biodemo.biodemo:main']
     },
-    url='https://github.com/bjpop/biodemo',
+    url='https://github.com/hdashnow/biodemo',
     license='LICENSE',
     description=('A prototypical bioinformatics command line tool'),
     long_description=(LONG_DESCRIPTION),
